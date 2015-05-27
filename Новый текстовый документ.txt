@@ -1,5 +1,5 @@
 HELLO
-<<<<<<< HEAD
+Daria
 <<<<<<< HEAD
 Jakimov
 =======
@@ -16,7 +16,14 @@ Jakimov
 
 =======
 
-pushhhhhhhh the table
+pushhhhhhhh the table<<<<<<< .mine
+абыр
+//github.com released in the 2014
+=======
 
 Sklyar
+>>>>>>> .theirs
+Andrey
+blabla
 NAZAR
+Ребята по решению конфликтов (067)170-45-33
