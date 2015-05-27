@@ -1,5 +1,5 @@
 HELLO
-<<<<<<< HEAD
+Daria
 <<<<<<< HEAD
 Jakimov
 =======
@@ -13,5 +13,5 @@ Jakimov
 pushhhhhhhh the table
 
 Sklyar
-
+NAZAR
 Andrey
