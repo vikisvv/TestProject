@@ -1,7 +1,6 @@
 HELLO
 <<<<<<< HEAD
 <<<<<<< HEAD
-Jakimov
 =======
 Алешка тут был!
 >>>>>>> cafdc0284972acf9807ec4348a7c62000dd45bd0
@@ -11,3 +10,4 @@ Jakimov
 >>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896700e6
 
 pushhhhhhhh the table
+JakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimov
