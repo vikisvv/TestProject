@@ -8,5 +8,16 @@ Jakimov
 =======
 Алешка тут был!
 ЫЫЫЫ=)
+<<<<<<< .mine
 >>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896
 Pichurin
+
+
+
+=======
+>>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896700e6
+
+pushhhhhhhh the table
+
+Sklyar
+>>>>>>> .theirs
