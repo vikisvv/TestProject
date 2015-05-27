@@ -1,7 +1,6 @@
 HELLO
 Daria
 <<<<<<< HEAD
-Jakimov
 =======
 Алешка тут был!
 >>>>>>> cafdc0284972acf9807ec4348a7c62000dd45bd0
@@ -19,6 +18,9 @@ Pichurin
 <<<<<<< .mine
 я изменил 27.05.2015 в 20:20
 
+<<<<<<< HEAD
+JakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimov
+=======
 
 
 =======
@@ -29,7 +31,7 @@ pushhhhhhhh the table<<<<<<< .mine
 =======
 
 Sklyar
->>>>>>> .theirs
+пррр>>>>>>> .theirs
 Andrey
 blabla
 NAZAR
