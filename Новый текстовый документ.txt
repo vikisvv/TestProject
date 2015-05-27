@@ -1,5 +1,5 @@
 HELLO
-<<<<<<< HEAD
+Daria
 <<<<<<< HEAD
 =======
 Алешка тут был!
@@ -8,12 +8,24 @@ HELLO
 Алешка тут был!
 ЫЫЫЫ=)
 >>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896700e6
+<<<<<<< .mine
+я изменил 27.05.2015 в 20:20
 
-pushhhhhhhh the table
 <<<<<<< HEAD
 JakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimov
 =======
 
+
+=======
+
+pushhhhhhhh the table<<<<<<< .mine
+абыр
+//github.com released in the 2014
+=======
+
 Sklyar
+пррр>>>>>>> .theirs
+Andrey
+blabla
 NAZAR
->>>>>>> e86fd660cf17d5689e6bd4d393ce4c564c7fc597
+Ребята по решению конфликтов (067)170-45-33
