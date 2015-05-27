@@ -1,5 +1,5 @@
 HELLO
-<<<<<<< HEAD
+Daria
 <<<<<<< HEAD
 Jakimov
 =======
@@ -10,7 +10,10 @@ Jakimov
 ЫЫЫЫ=)
 >>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896700e6
 
-pushhhhhhhh the table
+pushhhhhhhh the table<<<<<<< .mine
+абыр
 //github.com released in the 2014
+=======
+
 Sklyar
-NAZAR
+>>>>>>> .theirs
