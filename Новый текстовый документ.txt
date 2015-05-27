@@ -1,5 +1,42 @@
 HELLO
+Daria
+<<<<<<< HEAD
+=======
 Алешка тут был!
 ЫЫЫЫ=)
 VIKA
 Тест конфликт
+>>>>>>> cafdc0284972acf9807ec4348a7c62000dd45bd0
+=======
+Алешка тут был!
+ЫЫЫЫ=)
+<<<<<<< .mine
+>>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896
+Pichurin
+
+
+
+=======
+>>>>>>> ae56128fe8c9f9603ac6c0cc071ab4cc896700e6
+<<<<<<< .mine
+я изменил 27.05.2015 в 20:20
+
+<<<<<<< HEAD
+JakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimovJakimov
+=======
+
+
+=======
+
+pushhhhhhhh the table<<<<<<< .mine
+абыр
+//github.com released in the 2014
+=======
+
+Sklyar
+пррр>>>>>>> .theirs
+Andrey
+blabla
+NAZAR
+Ребята по решению конфликтов (067)170-45-33
+        ываываываываывавыа
