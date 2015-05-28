@@ -13,4 +13,12 @@ namespace ConsoleApplication
             Console.WriteLine("Vika");
         }
     }
+	
+	class StudentN ()
+	{
+		static void Name()
+		{
+			 Console.WriteLine("Nazar");
+		};
+	}
 }
